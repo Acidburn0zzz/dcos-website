@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="7px" height="11px" viewBox="0 0 7 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 3.6 (26304) - http://www.bohemiancoding.com/sketch -->
-    <title>Combined-Shape</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="arrow-right-docs" transform="translate(-4.000000, -1.000000)" fill="#7D58FF">
-            <g id="icons">
-                <g id="General-icons-1">
-                    <g id="Group-2">
-                        <path d="M9.36636819,10.3638665 C9.54628285,10.1835162 9.65685435,9.93465604 9.65685435,9.65982386 L9.65685435,3.65388414 C9.65685435,3.10989031 9.2091391,2.656854 8.65685435,2.656854 C8.10071917,2.656854 7.65685435,3.1032396 7.65685435,3.65388414 L7.65685435,8.656854 L2.65388449,8.656854 C2.10989066,8.656854 1.65685435,9.10456925 1.65685435,9.656854 C1.65685435,10.2129892 2.10323995,10.656854 2.65388449,10.656854 L8.65982421,10.656854 C8.93133398,10.656854 9.18018574,10.5453258 9.36136241,10.3649324 L9.36636819,10.3638665 Z" id="Combined-Shape" transform="translate(5.656854, 6.656854) rotate(-45.000000) translate(-5.656854, -6.656854) "></path>
-                    </g>
-                </g>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="7" height="11" version="1.1" viewBox="0 0 7 11"><title>Combined-Shape</title><desc>Created with Sketch.</desc><g id="Page-1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="arrow-right-docs" fill="#7D58FF" transform="translate(-4.000000, -1.000000)"><g id="icons"><g id="General-icons-1"><g id="Group-2"><path id="Combined-Shape" d="M9.36636819,10.3638665 C9.54628285,10.1835162 9.65685435,9.93465604 9.65685435,9.65982386 L9.65685435,3.65388414 C9.65685435,3.10989031 9.2091391,2.656854 8.65685435,2.656854 C8.10071917,2.656854 7.65685435,3.1032396 7.65685435,3.65388414 L7.65685435,8.656854 L2.65388449,8.656854 C2.10989066,8.656854 1.65685435,9.10456925 1.65685435,9.656854 C1.65685435,10.2129892 2.10323995,10.656854 2.65388449,10.656854 L8.65982421,10.656854 C8.93133398,10.656854 9.18018574,10.5453258 9.36136241,10.3649324 L9.36636819,10.3638665 Z" transform="translate(5.656854, 6.656854) rotate(-45.000000) translate(-5.656854, -6.656854)"/></g></g></g></g></g></svg>
