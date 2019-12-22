@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="7px" height="11px" viewBox="0 0 7 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 3.7 (28169) - http://www.bohemiancoding.com/sketch -->
-    <title>Group 2</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="General-icons-1" transform="translate(-324.000000, -878.000000)" fill="#A9A6AF">
-            <g id="Group-2" transform="translate(320.000000, 878.000000)">
-                <path d="M9.36636809,9.36386672 C9.54628275,9.18351645 9.65685425,8.93465629 9.65685425,8.65982411 L9.65685425,2.65388439 C9.65685425,2.10989056 9.209139,1.65685425 8.65685425,1.65685425 C8.10071907,1.65685425 7.65685425,2.10323985 7.65685425,2.65388439 L7.65685425,7.65685425 L2.65388439,7.65685425 C2.10989056,7.65685425 1.65685425,8.1045695 1.65685425,8.65685425 C1.65685425,9.21298943 2.10323985,9.65685425 2.65388439,9.65685425 L8.65982411,9.65685425 C8.93133388,9.65685425 9.18018564,9.54532601 9.36136231,9.36493269 Z" id="Combined-Shape" transform="translate(5.656854, 5.656854) rotate(-45.000000) translate(-5.656854, -5.656854) "></path>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="7" height="11" version="1.1" viewBox="0 0 7 11"><title>Group 2</title><desc>Created with Sketch.</desc><g id="icons" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="General-icons-1" fill="#A9A6AF" transform="translate(-324.000000, -878.000000)"><g id="Group-2" transform="translate(320.000000, 878.000000)"><path id="Combined-Shape" d="M9.36636809,9.36386672 C9.54628275,9.18351645 9.65685425,8.93465629 9.65685425,8.65982411 L9.65685425,2.65388439 C9.65685425,2.10989056 9.209139,1.65685425 8.65685425,1.65685425 C8.10071907,1.65685425 7.65685425,2.10323985 7.65685425,2.65388439 L7.65685425,7.65685425 L2.65388439,7.65685425 C2.10989056,7.65685425 1.65685425,8.1045695 1.65685425,8.65685425 C1.65685425,9.21298943 2.10323985,9.65685425 2.65388439,9.65685425 L8.65982411,9.65685425 C8.93133388,9.65685425 9.18018564,9.54532601 9.36136231,9.36493269 Z" transform="translate(5.656854, 5.656854) rotate(-45.000000) translate(-5.656854, -5.656854)"/></g></g></g></svg>

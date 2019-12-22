@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="11px" height="7px" viewBox="0 0 11 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 3.7 (28169) - http://www.bohemiancoding.com/sketch -->
-    <title>Combined Shape Copy</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="General-icons-1" transform="translate(-298.000000, -882.000000)" fill="#7D58FF">
-            <path d="M307.366368,887.363867 C307.546283,887.183516 307.656854,886.934656 307.656854,886.659824 L307.656854,880.653884 C307.656854,880.109891 307.209139,879.656854 306.656854,879.656854 C306.100719,879.656854 305.656854,880.10324 305.656854,880.653884 L305.656854,885.656854 L300.653884,885.656854 C300.109891,885.656854 299.656854,886.104569 299.656854,886.656854 C299.656854,887.212989 300.10324,887.656854 300.653884,887.656854 L306.659824,887.656854 C306.931334,887.656854 307.180186,887.545326 307.361362,887.364933 Z" id="Combined-Shape-Copy" transform="translate(303.656854, 883.656854) rotate(-315.000000) translate(-303.656854, -883.656854) "></path>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="11" height="7" version="1.1" viewBox="0 0 11 7"><title>Combined Shape Copy</title><desc>Created with Sketch.</desc><g id="icons" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="General-icons-1" fill="#7D58FF" transform="translate(-298.000000, -882.000000)"><path id="Combined-Shape-Copy" d="M307.366368,887.363867 C307.546283,887.183516 307.656854,886.934656 307.656854,886.659824 L307.656854,880.653884 C307.656854,880.109891 307.209139,879.656854 306.656854,879.656854 C306.100719,879.656854 305.656854,880.10324 305.656854,880.653884 L305.656854,885.656854 L300.653884,885.656854 C300.109891,885.656854 299.656854,886.104569 299.656854,886.656854 C299.656854,887.212989 300.10324,887.656854 300.653884,887.656854 L306.659824,887.656854 C306.931334,887.656854 307.180186,887.545326 307.361362,887.364933 Z" transform="translate(303.656854, 883.656854) rotate(-315.000000) translate(-303.656854, -883.656854)"/></g></g></svg>
